@@ -1,0 +1,11 @@
+dominio\AdminBEAN.class
+dominio\ClienteBEAN.class
+datos\ClienteDAOImple.class
+servicio\ClienteServicioImpl.class
+servicio\ClienteServicio.class
+web\ServletControlador.class
+web\ServletLogout.class
+datos\Conexion.class
+web\ServletLogin.class
+web\ServletIndex.class
+datos\ClienteDAO.class
